@@ -57,8 +57,8 @@ Errors that are **cosmetic or easily correctable** by QA or the annotator after 
 ## Future Improvements
  
 - Track inter-annotator agreement metrics  
-- Query error types and severity
-- Tailor rubric to specific project requirements
+- Log, query, and report common error types and severity
+- Tailor rubric to specific project requirements and data goals
 - Repurpose for multi-modal annotation tasks
 
 ---
