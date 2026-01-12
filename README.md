@@ -14,7 +14,8 @@ It is designed to reflect how real data operations teams assess quality, deliver
 - Feedback is provided and tasks are corrected if needed  
 - Repeated Significant Issues trigger retraining or escalation
 
-
+---
+## Scoring Rubric 
 This rubric defines how annotation errors are categorized and counted during QA review.  
 It is designed to promote consistent evaluation, clear feedback, and high-quality outputs across human data workflows.
 
