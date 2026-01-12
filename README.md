@@ -90,7 +90,7 @@ Clear, constructive feedback is critical to improving quality and maintaining he
 **Task ID:** 10491  
 **Issue Type:** Minor – Formatting  
 
-> Your labels are correct, but the explanation format does not follow the template (missing bullet points). Please use the standard explanation structure going forward. Score: 6
+> Good job! Only a minor issue. Your labels are correct, but the explanation format does not follow the template (missing bullet points). Please use the standard explanation structure going forward. Score: 6
 
 ---
 
