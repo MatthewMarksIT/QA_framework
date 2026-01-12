@@ -2,3 +2,35 @@
 
 
 <img width="877" height="509" alt="image" src="https://github.com/user-attachments/assets/92d72a1b-7884-4f9d-99eb-b7a602ca7fd2" />
+
+
+# Error Counting Guidelines
+
+Each error should be counted based on the **type of issue**, not frequency.  
+For example, multiple spelling mistakes count as **[1] Minor Issue – Spelling/Grammar**.
+
+---
+
+## Significant Issues
+Errors that **materially impact task quality or usability** and represent a fundamental deviation from requirements.
+
+**Examples:**
+- Factual inaccuracies / hallucinations  
+- Significant formatting errors  
+- No explanation provided in the Explanation Box  
+- Unsafe or harmful content  
+- Incorrect UI selections  
+- Significantly over the word limit  
+
+---
+
+## Minor Issues
+Errors that are **cosmetic or easily correctable** by QA or the annotator after send-back.
+
+**Examples:**
+- Spelling or grammar mistakes  
+- Minor formatting errors  
+- Incorrect explanation format  
+- Incomplete or low-quality explanations  
+- Slightly over the word limit  
+
